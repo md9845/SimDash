@@ -1,0 +1,16 @@
+/* Header CSS
+ * Taken from https://github.com/adazzle/react-data-grid/blob/75d1348134ea073ca04a5e634863cd5be062fcdf/themes/react-data-grid-header.css
+ */
+
+.react-grid-HeaderCell {
+   background: #7d2626;
+   font-weight: bold;
+ }
+
+.tb_pad {
+  padding: 10px 0px;
+}
+
+.l_pad {
+  padding: 0px 0px 0px 50px;
+}
